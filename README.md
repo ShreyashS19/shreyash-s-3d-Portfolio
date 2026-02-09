@@ -139,7 +139,7 @@ reflex3334-shreyash-s-3d-journey/
 git clone <your-repo-url>
 
 # Navigate to project
-cd reflex3334-shreyash-s-3d-journey
+cd shreyash-s-3d-Portfolio
 
 # Install dependencies
 npm install
@@ -273,7 +273,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-
-//change the folder name
-  name the repo correct in github
-  host oon versel
